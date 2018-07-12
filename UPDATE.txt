@@ -6,7 +6,7 @@ d7af92df77728c845d8ade87a54ef8f6	.\.gitignore
 092b95b9308e2827a3b1598add0e306d	.\concrt140.dll
 395b9c73d76666ab61aab04f89ad510c	.\cpprest_2_10.dll
 bc2e20e92e45893e2573e31858ed9882	.\data.dat
-d9a5424520cacdb6bca20edaf8657f70	.\face_crm_client.exe
+F2234F7B7A387CD83EFF0187B2051B97	.\face_crm_client.exe
 a3613d8b6c6edd1a0eb3c4db86cae375	.\LIBEAY32.dll
 de8ce6565e02de0ffa2be1e75297d79c	.\libgcc_s_sjlj-1.dll
 b86ee109b3bdbad1bf9d3d16fbce45df	.\libgfortran-3.dll
