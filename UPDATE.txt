@@ -1,6 +1,6 @@
 d7af92df77728c845d8ade87a54ef8f6	.\.gitignore
 8ba428e9b14013ad1550480b7c30d7e8	.\app.config
-367afe56984708514d71d78e18f87577	.\auto_restart.vbs
+20ED9E87C1BE2C2FD0882D819D4A4A39	.\auto_restart.vbs
 65cc733e73e1c06909b7c46024e7d231	.\boost_date_time-vc140-mt-x32-1_66.dll
 8083ec7b92ad031b9335d3e55749b0f7	.\boost_system-vc140-mt-x32-1_66.dll
 092b95b9308e2827a3b1598add0e306d	.\concrt140.dll
