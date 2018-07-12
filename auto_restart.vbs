@@ -14,14 +14,14 @@ End Function
 Function killProcess()
 Dim oShell
 Set oShell = WScript.CreateObject ("WScript.Shell")
-oShell.Run "taskkill /f /fi ""IMAGENAME eq face_crm_client.exe""", , True
+oShell.Run "taskkill /f /fi ""IMAGENAME eq UpdateClient.exe""", , True
 End Function
 
 
 Function runClient(rootDir)
 Set WinScriptHost = CreateObject("WScript.Shell")
 WinScriptHost.CurrentDirectory = rootDir
-WinScriptHost.Run rootDir + "face_crm_client.exe", 0
+WinScriptHost.Run rootDir + "UpdateClient.exe", 0
 Set WinScriptHost = Nothing
 End Function
 
